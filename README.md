@@ -25,11 +25,19 @@ If you want to change the settings for a simulation, simply edit config.py at mi
 
 ## Legacy Code
 
-The `old_MC_PYROUX` directory contains previous development versions of the project. It is kept for archival purposes and is **not required** for running the current implementations.
+The old_MC_PYROUX directory contains previous development versions of the project. It is kept for archival purposes and is not required to run the current implementations.
 
-## Examples applications
+## Example Applications
 
-The “examples” folder contains a few applications that use this code. Note that these codes are not strictly identical to the original code.
+The examples folder contains a few applications that use this code. Note that these applications are not necessarily identical to the original code.
+
+## Fog Data
+
+The pavin_oct_alb folder contains experimental fog data, including DSD, μa, μs, and phase functions.
+
+If you use these fog data, please cite:
+
+Free-space optical transmission measurements from 0.532 to 10 µm in real controlled fog, https://doi.org/10.1364/OL.609352
 
 -------------------------------------
 
