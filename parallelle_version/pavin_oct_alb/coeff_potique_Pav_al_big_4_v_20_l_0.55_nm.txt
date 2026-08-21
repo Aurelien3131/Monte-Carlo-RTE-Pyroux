@@ -1,0 +1,2 @@
+# absorption extinctino scattering en mm^-1 gphasemie
+6.36742001e-11 1.49689893e-04 1.49689830e-04 8.57881697e-01 
