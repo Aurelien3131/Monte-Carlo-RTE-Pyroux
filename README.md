@@ -17,6 +17,8 @@ Each version includes its own `README` describing its specific architecture and 
 
 WARNING : These codes do not take fluorescence or thermal effects into account.
 
+WARNING 2 : For plane waves and pencil beams, there is a risk of freezing or inconsistent RTA (WIP)
+
 -------------------------------------
 
 If you want to change the settings for a simulation, simply edit config.py at minimum and main.py at most—particularly for the loops.
