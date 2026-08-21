@@ -103,7 +103,7 @@ def simulation_worker( nphotons, box, xSize, ySize, zSize, xdet, ydet, zdet, the
                     detect(photon, detector, histo)
                     detect(photon, sub_detector, sub_histo)
                     
-                    match source_function: # choose the boundary conditions
+                    match boundary_function: # choose the boundary conditions
                         case 1 :
                             status = escape(photon, xSize, ySize, zSize)
                         case 2 :
